@@ -1,4 +1,4 @@
-# Networks
+# Modelling and Analysis of Complet Networks - final assignment
 Final assingment for the course Modelling &amp; Analysis of Complex Networks
 
 The repository contains 9 different notebooks:
